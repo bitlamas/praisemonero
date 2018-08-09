@@ -1,0 +1,69 @@
+/*
+This website was made by TheHihoGuy with the use of jquery and the jquery plugin. inspired by defaultnamehere.
+*/
+
+html,body{
+    padding:0;
+    margin:0;
+    min-height: 100%;
+    height:100%;
+    overflow: hidden;
+    position:relative;
+}
+
+.mr_overlay{
+    /**background:#2d0f0f url(/web/20180107191227im_/http://praisemonero.org/css/images/smashing.jpg) top center;background-repeat:no-repeat;*/
+}
+
+#extWebsiteDiv{
+/*position:relative;*/
+    padding: 0;
+    margin: 0;
+    min-height: 100%;
+    width: 100%;
+}
+
+#extWebsite{
+    width: 100%;
+    min-height: 100%;
+    position: absolute;
+    border: none;
+
+}
+
+#fluffy {
+    float: left;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+#fluffyImg{
+    max-width: 100vw;
+    height:auto;
+    width:auto;
+/*    max-height:100vh;*/
+}
+
+
+/*
+     FILE ARCHIVED ON 19:12:27 Jan 07, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:54:35 Aug 09, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 45.296 (3)
+  esindex: 0.006
+  captures_list: 57.719
+  CDXLines.iter: 9.271 (3)
+  PetaboxLoader3.datanode: 58.202 (4)
+  exclusion.robots: 0.128
+  exclusion.robots.policy: 0.117
+  RedisCDXSource: 0.449
+  PetaboxLoader3.resolve: 58.985
+  load_resource: 75.766
+*/
