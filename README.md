@@ -1,2 +1,0 @@
-# praisemonero
-ALL PRAISE FLUFFYPONY!
