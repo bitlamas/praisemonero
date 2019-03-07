@@ -12,4 +12,4 @@ This code is live on https://praisemonero.com/.
 
 I'm also hosting an alternative version on the [Monero Brasil](https://monero.inf.br/aleluia/) news portal.
 
-If you really want to send me donations, send to the Monero Brasil funds: 87GA2r9km8j7P63q6DEUygCi4JjrjvYcbXhi479fgWdoLbtxcqsSJ92SCfaf7ZVtwP9axyvYmSp9iHaeP72SGViz18dKfL3
+If you really want to send me donations, send to the Monero Brasil funds: 46YLZhJbywCHkMfggSpVmvgyzpYfTKY3rTi19iBSuvw88vYxXADS3d5XzPeGF2FjSKjJpmjj3YRznDgGG8HZHHdy7H9DHiR
