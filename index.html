@@ -35,7 +35,7 @@
 		// better mobile detection
 		const isMobile = window.matchMedia('(max-width: 768px), (hover: none)').matches;
 
-		// check for for changes (like mobile rotation)
+		// check for window changes (like mobile rotation)
 		window.matchMedia('(max-width: 768px), (hover: none)').addEventListener('change', (e) => {
 			const newIsMobile = e.matches;
 			const fluffyHeight = $(window).height() * (newIsMobile ? 0.45 : 0.90);
@@ -75,7 +75,6 @@
             document.getElementById('fluffyImg').classList.remove('darkened');
             
             // snowfall
-            document.body.className = 'mr_overlay';
             snowFall.snow(document.body, {
                 image: 'data/monero_64.png',
                 minSize: isMobile ? 5 : 10,
